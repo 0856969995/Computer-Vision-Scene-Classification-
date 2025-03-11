@@ -1,1 +1,1 @@
-# Computer-Vision-Scene-Classification-
+# Computer-Vision-Scene-Classification
